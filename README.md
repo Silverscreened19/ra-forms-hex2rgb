@@ -1,4 +1,9 @@
 Конвертер цветов из HEX в RGB
+
+[![Build status](https://ci.appveyor.com/api/projects/status/8leq3ow4fyoja252?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-forms-hex2rgb)
+
+![GitHub Pages](https://silverscreened19.github.io/ra-forms-hex2rgb/)
+
 ===
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
