@@ -5,7 +5,7 @@ const Converter = () => {
   const [, setHex] = useState("#CCCCFF");
 
   const hex2rgb = (hex: string) => {
-    let result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
 
     return result
       ? {
